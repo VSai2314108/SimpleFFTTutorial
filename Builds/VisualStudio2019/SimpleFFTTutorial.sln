@@ -1,0 +1,20 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2019
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleFFTTutorial - App", "SimpleFFTTutorial_App.vcxproj", "{9459B59B-EEA0-C2EF-C2F5-B5607F444C92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9459B59B-EEA0-C2EF-C2F5-B5607F444C92}.Debug|x64.ActiveCfg = Debug|x64
+		{9459B59B-EEA0-C2EF-C2F5-B5607F444C92}.Debug|x64.Build.0 = Debug|x64
+		{9459B59B-EEA0-C2EF-C2F5-B5607F444C92}.Release|x64.ActiveCfg = Release|x64
+		{9459B59B-EEA0-C2EF-C2F5-B5607F444C92}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
